@@ -3,15 +3,25 @@
 
 ## Overview
 The Hospital Platform is a user-friendly web application designed for seamless healthcare management. It serves as a centralized hub for patients and hospitals, enabling users to schedule appointments, receive prescriptions, and access essential health features. The platform also supports various health functionalities, such as vitals tracking, BMI calculation, and breathing exercises for enhanced lung capacity. Additional features include a blood donation management system and resources for mental health awareness.
+![097ecf30dfa091cbe70af32cbaa2296755797e7f 1](https://github.com/user-attachments/assets/bf58ff95-d40e-4d71-9969-7784f6f988e9)
+
 
 ## Key Features
 - **Appointment Booking**: Patients can book appointments with doctors, and doctors can provide prescriptions directly on the platform.
+  ![IMG-20241030-WA0028 1](https://github.com/user-attachments/assets/f29abb45-bbad-405f-ba01-25f07eb39ac0)
+
 - **Digital Prescriptions**: Users can access digital copies of prescriptions issued by doctors.
+  ![IMG-20241030-WA0031 1](https://github.com/user-attachments/assets/6154773d-9b1f-4422-ab46-f96fe8c507f6)
+
 - **Health Monitoring**:
   - Track vitals such as blood pressure, heart rate, and more.
   - Calculate BMI based on user inputs.
   - Guided breathing exercises to improve lung capacity.
+  ![IMG-20241030-WA0030 1](https://github.com/user-attachments/assets/7517a522-28a8-43a5-8e0f-ca23185e0ede)
+
 - **Blood Donation**: Users can register as donors, check donor availability, and access blood donation records.
+  ![IMG-20241030-WA0029 1](https://github.com/user-attachments/assets/d4306c66-794d-4349-8d4a-9d45ed60debb)
+
 - **Mental Health Awareness**: Access resources and information to support mental health.
 
 ## Technology Stack
@@ -27,11 +37,15 @@ The Hospital Platform is a user-friendly web application designed for seamless h
    - Start the following services:
      - **Apache**
      - **MySQL**
+       ![image](https://github.com/user-attachments/assets/c59b1d0c-0a8f-4bdf-829e-65988fcae68d)
+
 
 ### 2. Access phpMyAdmin
    - Open a web browser.
    - Go to `localhost` in the address bar.
    - From the XAMPP dashboard, open **phpMyAdmin**.
+     ![IMG-20241030-WA0032 1](https://github.com/user-attachments/assets/1de74211-8146-4c4e-b738-bfa791091c64)
+
 
 ### 3. Create the Database
    - In phpMyAdmin, create a new database named `hospital_platform`.
